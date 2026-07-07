@@ -911,7 +911,7 @@ NOTE: Submitted statements took :
 %slc_lxbegin;
 cards4;
 source ~/su2_channel_flow/su2_env.sh
-cd /home/xlr82sas//su2_channel_flow
+cd /home/xlr82sas/su2_channel_flow
 SU2_CFD inv_naca0012.cfg
 ;;;;
 %slc_lxend;
